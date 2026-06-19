@@ -1,3 +1,5 @@
+# qce26_qml_workshop
+
 Code and notebooks for the QCE26 workshop paper:
 
 **Parity Learning with Small Quantum Neural Models**
